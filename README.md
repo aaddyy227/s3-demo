@@ -74,11 +74,9 @@ aws-s3-demo/
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/yourusername/aws-s3-demo.git
+git clone https://github.com/aaddyy227/s3-demo.git
 cd aws-s3-demo
 ```
-
-*Replace `yourusername` with your actual GitHub username.*
 
 ### 2. Configure AWS Credentials
 
