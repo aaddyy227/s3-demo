@@ -195,7 +195,3 @@ mvn exec:java -Dexec.mainClass="com.example.S3App.S3DemoApp"
 ```bat
 mvn exec:java -Dexec.mainClass="com.example.S3App.S3DemoApp" -Dexec.args="file"
 ```
-
-## Troubleshooting
-
-- **Credentials Not Found:**...
